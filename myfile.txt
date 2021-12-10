@@ -1,3 +1,4 @@
 add 変更をインデックスに登録する
 --no-ff opt test
 --no-ff opt test2
+--no-ff opt test3
