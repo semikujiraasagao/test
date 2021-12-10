@@ -3,3 +3,4 @@ add 変更をインデックスに登録する
 --no-ff opt test2
 --no-ff opt test3
 commit インデックスの状態を記録する（正）
+commit インデックスの状態を記録する
