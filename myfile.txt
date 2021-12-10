@@ -1,1 +1,2 @@
 add 変更をインデックスに登録する
+--no-ff opt test
